@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\bin\Debug\Yazılı Ortalama Hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\bin\Debug\Yazılı Ortalama Hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\bin\Debug\Yazılı Ortalama Hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\obj\Debug\Yazılı Ortalama Hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\obj\Debug\Yazılı Ortalama Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\obj\Debug\Yazılı_Ortalama_Hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\obj\Debug\Yazılı_Ortalama_Hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\obj\Debug\Yazılı Ortalama Hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\obj\Debug\Yazılı Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\obj\Debug\Yazılı Ortalama Hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Yazılı Ortalama Hesaplama\Yazılı Ortalama Hesaplama\obj\Debug\Yazılı Ortalama Hesaplama.pdb
